@@ -1,5 +1,6 @@
 <?php echo $header; ?>
 <div class="container">
+  <!-- reset -->
   <!-- breadcrumb -->
   <!--
   <ul class="breadcrumb">
